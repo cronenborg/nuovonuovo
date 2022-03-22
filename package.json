@@ -6,7 +6,7 @@
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "bulma": "^0.7.0",
-    "gatsby": "^2.0.0",
+    "gatsby": "^2.0.84",
     "gatsby-awesome-pagination": "^0.3.3",
     "gatsby-plugin-lodash": "^3.0.1",
     "gatsby-plugin-material-ui": "^1.2.4",
